@@ -1,1 +1,1 @@
-First erc20 token Poysha! hehehe
+First erc20 token **Poysha**! hehehe
